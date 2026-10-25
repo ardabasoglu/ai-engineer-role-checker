@@ -2,7 +2,7 @@
 
 AI Engineer Role Checker is a free Cloudflare Pages web application that evaluates readiness for agent-era engineering work.
 
-URL: https://ai-engineer-role-checker.pages.dev/
+URL: https://ai-engineer-role-checker.ardabasoglu.com/
 
 ## Source framework
 

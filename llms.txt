@@ -4,8 +4,8 @@
 
 AI Engineer Role Checker helps engineers and teams assess whether they are moving from code production to higher-leverage skills: bottleneck awareness, review systems, specification, context, product judgment, and accountability.
 
-- Main app: https://ai-engineer-role-checker.pages.dev/
-- API endpoint: https://ai-engineer-role-checker.pages.dev/api/score
+- Main app: https://ai-engineer-role-checker.ardabasoglu.com/
+- API endpoint: https://ai-engineer-role-checker.ardabasoglu.com/api/score
 - Category: AI engineering, developer productivity, engineering career strategy
 - Cost: free
 

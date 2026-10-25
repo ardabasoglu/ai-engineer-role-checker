@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ai-engineer-role-checker.pages.dev/sitemap.xml
+Sitemap: https://ai-engineer-role-checker.ardabasoglu.com/sitemap.xml

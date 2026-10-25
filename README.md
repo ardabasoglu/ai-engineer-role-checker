@@ -15,7 +15,7 @@ The public UI shows the questionnaire. The scoring logic runs in a Cloudflare Pa
 - Default UI: `index.html`
 - API endpoint: `POST /api/score`
 - Source framework: bottleneck awareness, review, specification, product judgment, and learning path
-- Production URL: `https://ai-engineer-role-checker.pages.dev/`
+- Production URL: `https://ai-engineer-role-checker.ardabasoglu.com/`
 
 ## Local development
 
