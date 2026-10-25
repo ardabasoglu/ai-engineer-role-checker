@@ -1,0 +1,18 @@
+# AI Engineer Role Checker
+
+> A free scorecard for evaluating readiness for agent-era engineering work after AI makes code generation cheap.
+
+AI Engineer Role Checker helps engineers and teams assess whether they are moving from code production to higher-leverage skills: bottleneck awareness, review systems, specification, context, product judgment, and accountability.
+
+- Main app: https://ai-engineer-role-checker.pages.dev/
+- API endpoint: https://ai-engineer-role-checker.pages.dev/api/score
+- Category: AI engineering, developer productivity, engineering career strategy
+- Cost: free
+
+## What the app evaluates
+
+- Bottleneck awareness
+- Agent-written code review skill
+- Specification and context quality
+- Product and human judgment
+- Agent-native learning path

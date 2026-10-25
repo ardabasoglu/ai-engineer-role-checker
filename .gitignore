@@ -1,0 +1,6 @@
+docs/logic/*transcript*
+.process-start-utc
+.DS_Store
+.hermes/
+.wrangler/
+node_modules/

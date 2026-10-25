@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev . --compatibility-date=2026-10-21",
+    "test": "node tests/scoring.test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "3.114.17"
+  }
+}

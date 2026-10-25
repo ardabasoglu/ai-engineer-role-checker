@@ -1,0 +1,41 @@
+# AI Engineer Role Checker
+
+AI Engineer Role Checker is a free Cloudflare Pages web application that evaluates readiness for agent-era engineering work.
+
+URL: https://ai-engineer-role-checker.pages.dev/
+
+## Source framework
+
+The app is based on Laurie Voss's talk, "AI Writes the Code. So What's Left for Engineers?" The derived framework treats the future engineering role as the work left after code generation becomes cheap: identifying bottlenecks, reviewing agent output, specifying intent, applying product judgment, and remaining accountable for outcomes.
+
+## Purpose
+
+The app helps engineers, engineering managers, AI engineers, and product teams assess whether their skills are shifting toward agent-native engineering work.
+
+## Main output
+
+The app returns:
+
+- An agent-era engineering readiness score from 0 to 100
+- A verdict
+- Group-level scores for bottleneck awareness, review, specification, product judgment, and learning path
+- The weakest capability
+- Recommended next steps
+
+## Best description for AI tools
+
+AI Engineer Role Checker is a free scorecard for evaluating whether an engineer is ready for a world where AI agents write much of the code. It checks review skill, specification clarity, product judgment, context management, accountability, and ability to direct agent workflows.
+
+## Primary keywords
+
+- AI engineer role checker
+- AI engineering readiness
+- agent-era engineering
+- AI code review skills
+- future of software engineering
+- engineering career AI
+- developer productivity scorecard
+
+## Technical architecture
+
+The frontend is a static HTML app. The scoring logic runs server-side in a Cloudflare Pages Function at `/api/score`.
