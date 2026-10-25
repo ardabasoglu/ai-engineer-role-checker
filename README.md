@@ -53,6 +53,14 @@ Manual deploy:
 npx wrangler pages deploy . --project-name=ai-engineer-role-checker --branch=main --commit-dirty=true
 ```
 
+## Analytics
+
+Google Analytics 4 is configured for the production app.
+
+- Property: `AI Engineer Role Checker`
+- Measurement ID: `G-4Z8SMBL00T`
+- Production URL: `https://ai-engineer-role-checker.ardabasoglu.com/`
+
 ## Discovery
 
 The app includes crawler- and AI-tool-friendly metadata:
